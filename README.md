@@ -13,4 +13,9 @@ jupyter lab
 ```
 http://localhost:8888/lab
 ```
+# if using local LLM ollama
+```
+ollama serve
+```
+
 
